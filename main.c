@@ -12,7 +12,7 @@
 #include "song.h"
 
 //temp variables for user input
-int userInput = -1;
+int userInput = 0;
 char artName[4096], songName[4096];
 int songLength = 0;
 
