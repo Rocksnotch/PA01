@@ -160,6 +160,7 @@ int main() {
     scanf("%d", &userInput);
 
 /*!!!!!REQUIRED - INPUT NON-FUNCTIONAL WITHOUT IT!!!!!*/
+/* (Maybe I should not use scanf for userInput) */
     int c;
     while ((c = getchar()) != '\n' && c != EOF);
 
